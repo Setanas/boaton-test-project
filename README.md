@@ -2,11 +2,17 @@
 
 ## Projet
 
-Le but est de réaliser une API RESTFUL en deux semaines en `NodeJS`.
+Le but est de réaliser une API RESTFUL en 1 semaine en `NodeJS`.
+
+Une base donnée est dèjà fourni dans le dossier sql.
 
 Avant de démarrer il suffit de fork le projet .
 
 Pour le rendu il suffit de faire un pull request.
+
+Un minimum de gestion d'erreur, un code clair et commenté est demandé.
+
+si il y a besoin de plus d'information, ne pas hésiter à me contacter
 
 ### Premier Endpoint
 
@@ -26,5 +32,3 @@ Créer un requete avec la methode `PUT` qui prend en header le token et en body 
   
 Elle doit renvoyer le total rentré dans la base de donnée
 
-
-Un minimum de gestion d'erreur est demandé, si il y a besoin de plus d'information, ne pas hésiter à me contacter
