@@ -17,7 +17,7 @@ Créer une requete de connection en `POST`qui prend en body un login et un mot d
 
 ### Deuxieme Enpoint
 
-Créer un requete de reception et d'integration dans la base base de données en `PUT` qui prend en header le token générer precedemment et en body : 
+Créer un requete  qui recoie et créer une nouvelle ligne dans la base avec la methode `PUT` qui prend en header le token générer precedemment et en body : 
   - nom
   - prenom
   - email
