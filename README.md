@@ -25,3 +25,6 @@ Créer un requete avec la methode `PUT` qui prend en header le token et en body 
   - total 
   
 Elle doit renvoyer le total rentré dans la base de donnée
+
+
+Un minimum de gestion d'erreur est demandé, si il y a besoin de plus d'information, ne pas hésiter à me contacter
