@@ -26,4 +26,5 @@ Créer un requete de reception et d'integration dans la base base de données en
   - maker
   - model
   - total 
+  
 Elle doit renvoyer le total rentrer dans la base de donnée
