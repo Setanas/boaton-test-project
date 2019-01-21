@@ -11,6 +11,7 @@ Avant de démarrer il suffit de fork le projet .
 Pour le rendu il suffit de faire un pull request.
 
 Un minimum de gestion d'erreur, un code clair et commenté est demandé.
+L'Utilisation des callbacks est fortement recommendé.
 
 si il y a besoin de plus d'information, ne pas hésiter à me contacter
 
